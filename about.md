@@ -4,8 +4,6 @@ title: Sobre
 permalink: about
 ---
 
-> Sou Desenvolvedor de Software, com minha experiência mais recente tendo sido no iClubs.
+> Sou Desenvolvedor de Software, com minha experiência mais recente tendo sido no <a href=iclubs.tech>iClubs</a>.
 
-> Estudo na Universidade Federal do ABC (UFABC), uma das maiores Universidades da América Latina e curso Bacharelado em Ciência e Tecnologia e Bacharelado em Ciência da Computação.
-
-> O que mais aprecio no ambiente de trabalho é encontrar oportunidades de expandir limites e explorar o que muitas vezes ninguém questiona.
+> Curso Bacharelado em Ciência e Tecnologia e Bacharelado em Ciência da Computação na <a href=ufabc.edu.br>Universidade Federal do ABC (UFABC)</a>.
