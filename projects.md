@@ -6,11 +6,9 @@ permalink: projects
 
 <div>
   {% for post in site.posts %}
-    <div class="flex items-stretch justify-start">
-      <div class="self-auto">
-        <img src="{{site.baseurl}}/assets/projects/{{ post.title }}.png">
-      </div>
-      <div class>
+    <div class="flex justify-start">
+      <img class="h-12" src="{{site.baseurl}}/assets/projects/{{ post.title }}.png">
+      <div>
         <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>
         <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
       </div> 
