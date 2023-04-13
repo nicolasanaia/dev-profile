@@ -8,7 +8,7 @@ permalink: projects
   {% for post in site.posts %}
     <div class="flex items-stretch justify-start">
       <div class="self-auto">
-        <img src="{{site.baseurl}}/assets/projects/{{ post.title }.png">
+        <img src="{{site.baseurl}}/assets/projects/{{ post.title }}.png">
       </div>
       <div class>
         <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>
