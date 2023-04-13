@@ -6,7 +6,7 @@ permalink: projects
 
 <div>
   {% for post in site.posts %}
-    <div class="flex justify-start">
+    <div>
       <img class="h-12" src="{{site.baseurl}}/assets/projects/{{ post.title }}.png">
       <div>
         <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>
