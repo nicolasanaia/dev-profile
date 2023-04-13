@@ -7,7 +7,7 @@ permalink: projects
 <div>
   {% for post in site.posts %}
     <div class="flex justify-start">
-      <img class="w-8" src="{{site.baseurl}}/assets/projects/{{ post.title }.png">
+      <img class="w-fit" src="{{site.baseurl}}/assets/projects/{{ post.title }.png">
       <div>
         <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>
         <div class="text-sm text-gray-400">{{post.date | date: "%B %-d, %Y"}}</div>
