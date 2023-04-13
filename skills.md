@@ -3,9 +3,6 @@ layout: page
 title: Skills
 permalink: skills
 ---
-
-## Hard Skills
-
 ### Backend
 - Node.js
 
@@ -14,8 +11,6 @@ permalink: skills
 - Javascript
 - Python
 - Bash
-- Ruby
-- Java
 
 ### Devops
 - AWS
