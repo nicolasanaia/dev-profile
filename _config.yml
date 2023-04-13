@@ -21,6 +21,8 @@ nav-menu:
   permalink: about
 - text: Contato
   permalink: contact
+- text: Projetos
+  permalink: blog
 
 # use false to turn off any social media links
 github: https://github.com/nicolasanaia
