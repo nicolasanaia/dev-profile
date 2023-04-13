@@ -19,10 +19,12 @@ show-nav-menu: true
 nav-menu:
 - text: Sobre
   permalink: about
-- text: Contato
-  permalink: contact
 - text: Projetos
   permalink: blog
+- text: Skills
+  permalink: skills
+- text: Contato
+  permalink: contact
 
 # use false to turn off any social media links
 github: https://github.com/nicolasanaia
