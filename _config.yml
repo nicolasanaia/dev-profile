@@ -20,7 +20,7 @@ nav-menu:
 - text: Sobre
   permalink: about
 - text: Projetos
-  permalink: blog
+  permalink: projects
 - text: Skills
   permalink: skills
 - text: Contato
