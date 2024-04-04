@@ -14,6 +14,7 @@ permalink: skills
 
 ### Devops
 - AWS
+- Azure
 
 ### Frontend
 - Next.js
@@ -22,6 +23,9 @@ permalink: skills
 - CSS
 - SASS
 - Styled Components
+
+### Frameworks
+- VTEX
 
 ### Idiomas
 - Português
